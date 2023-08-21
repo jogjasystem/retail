@@ -1,2 +1,2 @@
-# retail
+# Retail System
 Retail System
